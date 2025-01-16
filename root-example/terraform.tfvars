@@ -1,4 +1,4 @@
-bucket_name         = "masterbucketofdeepak12345"
+bucket_name         = "masbucketofdeepak12345"
 environment         = "dev"
 versioning_enabled  = true
 force_destroy       = false
